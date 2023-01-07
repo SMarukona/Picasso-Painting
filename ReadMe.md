@@ -10,7 +10,7 @@ This is a project on freeCodeCAmp Responsive Web Design Track
 ### Built with
 
 - HTML5
-- CSS Position
+- CSS Positioning
 
 ## Author
 - Github - [@SMarukona](https://github.com/SMarukona)
